@@ -1,6 +1,6 @@
 # blogpost-api
-A backend Api for a simple blog
-|Endpoint|Description|
+
+|Endpoints|Description|
 |:-------:|:---------:|
 |POST /posts| Create a Post|
 | GET /posts| Retrieve all Posts|
